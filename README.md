@@ -28,7 +28,7 @@ All course materials are freely available for self-study(except Coursera). Befor
 
 
 
-
+---
 ### Syllabus
 <p align="center">
 The NCP-AI Operations certification is an intermediate-level credential that validates a candidate’s ability to monitor, troubleshoot, and optimize AI infrastructure by NVIDIA. The exam is online and proctored remotely, includes 60-70 questions, and has a 90-minute time limit.
@@ -36,7 +36,7 @@ The NCP-AI Operations certification is an intermediate-level credential that val
 
 [📘 NVIDIA Certification Study Guide](Books-NCP-AIOP/NCP-AIO-exam-study-guide-ncp-ai-operations.pdf)
 
-
+---
 ### 📝 Exam Domains, Weights & Topics
 
 The table below provides an overview of the topic areas covered in the certification exam and how much of the exam is focused on that subject.  
@@ -91,12 +91,12 @@ tools like NVIDIA Data Center GPU Manager (DCGM), NVIDIA System Management (NVSM
 ---
 ### Domain 3: Install and Deploy
 
-3.1 Install and configure BCM.
-3.2 Install and initialize Kubernetes on NVIDIA hosts using BCM.
-3.3 Deploy containers from NGC.
-3.4 Deploy cloud VMI containers.
-3.5 Understand storage requirements for AI data centers.
-3.6 Deploy DOCA services on DPU-Arm.
+1) Install and configure BCM.
+2) Install and initialize Kubernetes on NVIDIA hosts using BCM.
+3) Deploy containers from NGC.
+4) Deploy cloud VMI containers.
+5) Understand storage requirements for AI data centers.
+6) Deploy DOCA services on DPU-Arm.
 
 
 | Topic | PDF Reference | Useful Links |
@@ -111,11 +111,11 @@ tools like NVIDIA Data Center GPU Manager (DCGM), NVIDIA System Management (NVSM
 ---
 ### Domain 4: Troubleshooting and Optimization
 
-4.1 Troubleshoot Docker.
-4.2 Troubleshoot the fabric manager service for NVLink and NVSwitch systems.
-4.3 Troubleshoot Base Command Manager.
-4.4 Troubleshoot Magnum IO components.
-4.5 Troubleshoot storage performance.
+1) Troubleshoot Docker.
+2) Troubleshoot the fabric manager service for NVLink and NVSwitch systems.
+3) Troubleshoot Base Command Manager.
+4) Troubleshoot Magnum IO components.
+5) Troubleshoot storage performance.
 
 
 | Topic | PDF Reference | Useful Links |
