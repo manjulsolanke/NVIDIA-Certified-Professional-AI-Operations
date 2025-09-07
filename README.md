@@ -16,7 +16,7 @@ While preparing for the exam, I realized that although NVIDIA provides official 
 This repository is my attempt to make preparation easier for future aspirants.  
 Here, you’ll find structured documentation, curated references, notes, and study materials all in one place.  The goal is simple: to serve as a practical knowledge hub for anyone preparing for the NCP-AIO exam.  
 
-
+---
 ### 🎓 NVIDIA Courses & Learning Resources  
 All course materials are freely available for self-study(except Coursera). Before going through the exam guide below, I recommend completing these courses, as they provide a solid foundation and cover the essential basics.
 
@@ -48,11 +48,7 @@ The table below provides an overview of the topic areas covered in the certifica
 | **Installation and Deployment**| 26%       | - Install and configure BCM <br> - Install and initialize Kubernetes on NVIDIA hosts using BCM <br> - Deploy containers from NGC <br> - Deploy cloud VMI containers <br> - Understand storage requirements for AI data centers <br> - Deploy DOCA services on DPU Arm |
 | **Troubleshooting & Optimization** | 20%   | - Troubleshoot docker <br> - Troubleshoot the fabric manager service for NVIDIA NVlink™/NVswitch™ systems <br> - Troubleshoot BCM <br> - Troubleshoot Magnum IO components <br> - Troubleshoot storage performance |
 
-
-### Prerequisites
-As per offical docs. 
-Two to three years of operational experience working in a data center with NVIDIA hardware solutions. The candidate should be able to monitor and manage all the parts of a data center infrastructure in support of AI workloads.
-
+---
 ### Domains
 
 ### Domain 1: Administration
@@ -75,7 +71,7 @@ AI and high-performance computing (HPC) applications.
 
 
 
-
+---
 ### Domain 2: Workload Management
 1) Administering Kubernetes clusters
 2) Troubleshooting issues using system management 
@@ -92,6 +88,7 @@ tools like NVIDIA Data Center GPU Manager (DCGM), NVIDIA System Management (NVSM
 | **1.4 DeeOPs** | [📕 Run:ai Guide](Books-NCP-AIOP/M1-Administrator/Run-ai-Solution-Overview.pdf)<br>[📕 Run:ai Guide](Books-NCP-AIOP/M1-Administrator/Overview-Run-ai.pdf)| [Run:ai Official Docs](https://run-ai-docs.nvidia.com/) |
 | **1.5 DGX BasePod and SuperPod** | [📕 DGX BasePod Deployment](Books-NCP-AIOP/M2-Install-Deploy/DGX-BasePOD-Deployment.pdf)<br> [📕 DGX BasePod](Books-NCP-AIOP/M2-Install-Deploy/DGX-BasePOD.pdf) | [DGX SuperPod](https://www.nvidia.com/en-us/data-center/dgx-superpod/) |
 
+---
 ### Domain 3: Install and Deploy
 
 3.1 Install and configure BCM.
@@ -102,8 +99,6 @@ tools like NVIDIA Data Center GPU Manager (DCGM), NVIDIA System Management (NVSM
 3.6 Deploy DOCA services on DPU-Arm.
 
 
-### Install and Deploy
-
 | Topic | PDF Reference | Useful Links |
 |-------|---------------|--------------|
 | **3.1 Install and configure BCM** | [📕 BCM Install Guide](Books-NCP-AIOP/M2-Install-Deploy/BCM-Installation.pdf)| [NVIDIA Base Command Manager](https://docs.nvidia.com/base-command-manager/) |
@@ -113,7 +108,7 @@ tools like NVIDIA Data Center GPU Manager (DCGM), NVIDIA System Management (NVSM
 | **3.5 Understand storage requirements for AI data centers** | [📕 GPUDirect Storage](Books-NCP-AIOP/M4-Troubleshooting-and-Optimization/GPUDirect-Storage-Installation.pdf) | [Storage For AI Infrastructure](https://developer.nvidia.com/blog/choosing-the-right-storage-for-enterprise-ai-workloads/) |
 | **3.6 Deploy DOCA services on DPU-Arm** |  | [NVIDIA DOCA Docs](https://docs.nvidia.com/doca/archive/2-5-2/index.html) |
 
-
+---
 ### Domain 4: Troubleshooting and Optimization
 
 4.1 Troubleshoot Docker.
@@ -132,7 +127,7 @@ tools like NVIDIA Data Center GPU Manager (DCGM), NVIDIA System Management (NVSM
 | **4.5 storage performance** | [📕 GPUDirect Storage](Books-NCP-AIOP/M4-Troubleshooting-and-Optimization/GPUDirect-Storage-Installation.pdf) | [Storage For AI Infrastructure](https://developer.nvidia.com/blog/choosing-the-right-storage-for-enterprise-ai-workloads/) |
 | **3.6 Deploy DOCA services on DPU-Arm and UFM** |  | [NVIDIA DOCA Docs](https://docs.nvidia.com/doca/archive/2-5-2/index.html) <br> [UFM](https://docs.nvidia.com/networking/display/ufmenterpriseqsgv6121/upgrading+ufm+software)|
 
-
+---
 ### 🚨 Important Exam Points (Must-know Topics)  
 
 These are the high-priority areas you **cannot afford to miss** for the NCP-AIO exam:  
@@ -148,6 +143,7 @@ These are the high-priority areas you **cannot afford to miss** for the NCP-AIO 
 - **DOCA & UFM** → Key infrastructure topics.  
 - **Fabric Manager, NVLink, NVSwitch** → High relevance for troubleshooting.  
 
+---
 ### 📚 Additional Resource  
 - [Udemy – Certified Professional AI Operations Exam Question Bank](https://www.udemy.com/course/certified-professional-ai-operations-exams/?couponCode=LETSLEARNNOW) → Useful for basic understanding of exam-style questions.  
 
