@@ -7,7 +7,7 @@
 
 Hi, I’m **Manjul Solanke**. I have successfully completed the **NVIDIA NCP-AIO certification** ✅  👉 [View Certification](https://www.credly.com/badges/9c49538a-0e37-45c7-a472-35b7c9dafcbc)  
 
-I’m proud to share that I’m among the to achieve this certification 🇮🇳.  
+I’m proud to share that I’m among the first 7 professionals in India 🇮🇳 to achieve the NVIDIA NCP-AIO certification.
 
 While preparing for the exam, I realized that although NVIDIA provides official training, it’s very costly ($5500 on their website). There are also no dedicated videos or a proper study guide. I personally struggled a lot to gather materials, often piecing them together from scattered sources.  
 
