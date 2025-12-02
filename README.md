@@ -67,7 +67,7 @@ AI and high-performance computing (HPC) applications.
 | **1.2 Administer Slurm Clusters** | [📕 Slurm Guide](Books-NCP-AIOP/M1-Administrator/slurm-docs.pdf) | [Slurm 01](https://slurm.schedmd.com/documentation.html) <br> [Slurm 02](https://ctzn-vishal.github.io/SCRC_Docs/computing-resources/) <br> [Slurm 03](https://www.carc.usc.edu/user-guides/hpc-systems/using-our-hpc-systems/slurm-templates) |
 | **1.3 Design Data Center Architecture for AI Workloads** | [📕Architecture Guide](Books-NCP-AIOP/M1-Administrator/AI-Enterprise-Architecture-Refernce.pdf) | [Architecture for AI](https://docs.nvidia.com/ai-enterprise/planning-resource/ai-factory-white-paper/latest/index.html) <br> [NVIDIA AI Enterprise](https://docs.nvidia.com/ai-enterprise/deployment/vmware/latest/platform-overview.html)|
 | **1.4 Administer Run:ai** | [📕 Run:ai Guide](Books-NCP-AIOP/M1-Administrator/Run-ai-Solution-Overview.pdf)<br>[📕 Run:ai Guide](Books-NCP-AIOP/M1-Administrator/Overview-Run-ai.pdf)| [Run:ai Official Docs](https://run-ai-docs.nvidia.com/) |
-| **1.5 Configure MIG for AI and HPC** | [📕 MIG Notes](Reference-Books/MIG.pdf)<br> [📕 HPC](HPC) | [MIG User Guide](https://docs.nvidia.com/datacenter/tesla/mig-user-guide/) |
+| **1.5 Configure MIG for AI and HPC** | [📕 MIG Notes](https://github.com/manjulsolanke/NVIDIA-Certified-Professional-AI-Operations/blob/main/Books-NCP-AIOP/M1-Administrator/MIG.pdf)<br> [📕 HPC](HPC) | [MIG User Guide](https://docs.nvidia.com/datacenter/tesla/mig-user-guide/) |
 
 
 
